@@ -1,4 +1,4 @@
-<h1 style="display: flex; justify-content: center">I am a full-stack web developer.</h1>
+<h1 style="align-items:center">I am a full-stack web developer.</h1>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmet-ergül-547b25224) 
